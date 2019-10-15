@@ -1,0 +1,13 @@
+a{
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 35%;
+    color: black;
+  }
+  
+  .line{
+    text-decoration: line-through;
+    line-break: 1em;
+    line-height: 2em;
+  }
